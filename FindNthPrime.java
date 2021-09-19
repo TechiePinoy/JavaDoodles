@@ -4,7 +4,7 @@ import java.util.Scanner;
  * looks for the nth prime number
  * with user's choice of n > 0. 
  * 
- * Current version is works reasonably 
+ * Current version works reasonably 
  * fast for up to n = ~100,000 on my PC.
  * 
  * @author: Facebook.com/TechiePinoy
